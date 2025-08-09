@@ -1,0 +1,2999 @@
+[
+    {
+        "id": "e3e9b86d5bd0446d",
+        "type": "tab",
+        "label": "Flow 1",
+        "disabled": false,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "5c9497a8022e826d",
+        "type": "tab",
+        "label": "Flow 2",
+        "disabled": false,
+        "info": "",
+        "env": []
+    },
+    {
+        "id": "7df1343c0afd74df",
+        "type": "group",
+        "z": "e3e9b86d5bd0446d",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "38a7d2416130c279",
+            "1669df347de0827e",
+            "3a4d901873f4b366",
+            "c42aa36c05c4854d",
+            "db4e28b6f0a40152",
+            "8cd6d015be3c79d9",
+            "4d59173c82562e6d",
+            "767fc7d4865fb1da",
+            "1251a80f2679536f",
+            "218ec1fc63606b68",
+            "c59b6ffb641db370",
+            "5dfbacbbbcc1b093",
+            "c155ba869ad78135",
+            "a280d65dba1d97c0",
+            "eda26bc8e7f003a7",
+            "48556233f0df64a2"
+        ],
+        "x": 34,
+        "y": 899,
+        "w": 1212,
+        "h": 322
+    },
+    {
+        "id": "38cbb53afcaf017d",
+        "type": "group",
+        "z": "e3e9b86d5bd0446d",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "2f14fdeaec36620b",
+            "d4ecc8ee109a6bf7",
+            "e89ce4c23317edf4",
+            "8a7ef53683e5e33c",
+            "8ed160ebf0e6651c",
+            "b342e3e3c7f79535",
+            "7f1ae8ec64b0d496",
+            "ec56e8f7fb7e1e50",
+            "878d962c0aa2b5a2",
+            "a87a3be68c863ce0"
+        ],
+        "x": 44,
+        "y": 619,
+        "w": 1222,
+        "h": 242
+    },
+    {
+        "id": "dec0da89a0e496ac",
+        "type": "group",
+        "z": "e3e9b86d5bd0446d",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "a232648781d7033d",
+            "374108f169c98b53",
+            "1046ce192ef9752a",
+            "c3df3a9ddde2d184",
+            "9ae238f954737ea5",
+            "41517514e7dcf2b9",
+            "2060ad7c7a40a237",
+            "74f40c53f2c1bd60",
+            "f5ad198a792e130f",
+            "dbe89577607b8696",
+            "66c0aea70a8079bc",
+            "87f8cd8ca51998f7",
+            "ec3cc227d64a2e25",
+            "42c8eacf1fba8798"
+        ],
+        "x": 34,
+        "y": 239,
+        "w": 1192,
+        "h": 322
+    },
+    {
+        "id": "ba338f346a828f39",
+        "type": "group",
+        "z": "e3e9b86d5bd0446d",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "93673f867685d19b",
+            "33ba8497a7e9ae6b",
+            "bb4c63f20b6bb1cd",
+            "d0dfa69b0bdaa7b7",
+            "3b9bdb7a46f40e29",
+            "202b8eb2cae96620"
+        ],
+        "x": 34,
+        "y": 19,
+        "w": 652,
+        "h": 202
+    },
+    {
+        "id": "84fe9588e3ff1d42",
+        "type": "group",
+        "z": "5c9497a8022e826d",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "afbca2268a3d30ec",
+            "7f20c983431e8f6d",
+            "8f28392bdc99c686",
+            "7bd439170f61abb1",
+            "1e9feb66a4fb5b86",
+            "1fd1e069a4928b18"
+        ],
+        "x": 34,
+        "y": 19,
+        "w": 652,
+        "h": 202
+    },
+    {
+        "id": "19461add7179f419",
+        "type": "group",
+        "z": "5c9497a8022e826d",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "7e8734a0b4e7a306",
+            "6313fb26f3cef2bf",
+            "5b4a6e2a300fb457",
+            "5c248056dcef7888",
+            "efe726c857f51d7c",
+            "0eac9a716f4d15be",
+            "7e2212f4ad6a6f0c",
+            "3b6415194f02feda",
+            "05250110c8c14b7f",
+            "68d07d2c24ad8280",
+            "1ee9645a57f0b56c",
+            "5068271e517cc7d4",
+            "ff9f7f040baa3f96",
+            "055fd171dcf6fb4b",
+            "740b8ee6a03aebf2"
+        ],
+        "x": 34,
+        "y": 259,
+        "w": 1212,
+        "h": 262
+    },
+    {
+        "id": "351364d58b488f0b",
+        "type": "group",
+        "z": "5c9497a8022e826d",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "f11b73a189aabcbd",
+            "7345c0aa9247578e",
+            "54aaaedb706261d4",
+            "6ff6e18d939c4ef9",
+            "4ed560d36cc41fcb",
+            "1c339745837b2ed3",
+            "f8fdb7c11919a60a",
+            "b07c81dd1f134fb7",
+            "99011c18f97aa86c",
+            "bd96647c9cc4f88c",
+            "2cf8fb06fd3bfbf9",
+            "85c67f2fc785433c",
+            "01da6c21abea8abe",
+            "4f528f04f6bd867a",
+            "fe12a6e2fc121802"
+        ],
+        "x": 34,
+        "y": 559,
+        "w": 1212,
+        "h": 262
+    },
+    {
+        "id": "0bbdc3255d4c893e",
+        "type": "group",
+        "z": "5c9497a8022e826d",
+        "style": {
+            "stroke": "#999999",
+            "stroke-opacity": "1",
+            "fill": "none",
+            "fill-opacity": "1",
+            "label": true,
+            "label-position": "nw",
+            "color": "#a4a4a4"
+        },
+        "nodes": [
+            "48c4dc066dfc58f1",
+            "b3bba8d9322cb139",
+            "417adabdd1010e10",
+            "eeeca80a65c59ac0",
+            "e3311847859422c7",
+            "9a58bda66730ab4e",
+            "178b8990c2f47944",
+            "877174f09f19a9b4",
+            "ece6e0c17eaec11d",
+            "97045b7b85bd5ed6",
+            "9a1a8ca50678baf4",
+            "4a81c7c34aee2e81",
+            "2d5debe2c26b218d",
+            "c79a524544c5aee6",
+            "b1ff5e50cd392511"
+        ],
+        "x": 34,
+        "y": 859,
+        "w": 1212,
+        "h": 262
+    },
+    {
+        "id": "93166fec6f30088d",
+        "type": "OpcUa-Endpoint",
+        "endpoint": "opc.tcp://127.0.0.1:49320",
+        "secpol": "Basic256",
+        "secmode": "SignAndEncrypt",
+        "none": true,
+        "login": false,
+        "usercert": false,
+        "usercertificate": "",
+        "userprivatekey": ""
+    },
+    {
+        "id": "41256dd3a951944c",
+        "type": "ui_base",
+        "theme": {
+            "name": "theme-light",
+            "lightTheme": {
+                "default": "#0094CE",
+                "baseColor": "#0e4272",
+                "baseFont": "-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif",
+                "edited": true,
+                "reset": false
+            },
+            "darkTheme": {
+                "default": "#097479",
+                "baseColor": "#1a0651",
+                "baseFont": "Lucida Sans Typewriter,Lucida Console,Monaco,monospace",
+                "edited": true,
+                "reset": false
+            },
+            "customTheme": {
+                "name": "Untitled Theme 1",
+                "default": "#4B7930",
+                "baseColor": "#4B7930",
+                "baseFont": "-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif"
+            },
+            "themeState": {
+                "base-color": {
+                    "default": "#0094CE",
+                    "value": "#808000",
+                    "edited": true
+                },
+                "page-titlebar-backgroundColor": {
+                    "value": "#0e4272",
+                    "edited": false
+                },
+                "page-backgroundColor": {
+                    "value": "#fafafa",
+                    "edited": false
+                },
+                "page-sidebar-backgroundColor": {
+                    "value": "#333333",
+                    "edited": false
+                },
+                "group-textColor": {
+                    "value": "#1669b6",
+                    "edited": false
+                },
+                "group-borderColor": {
+                    "value": "#ffffff",
+                    "edited": false
+                },
+                "group-backgroundColor": {
+                    "value": "#ffffff",
+                    "edited": false
+                },
+                "widget-textColor": {
+                    "value": "#111111",
+                    "edited": false
+                },
+                "widget-backgroundColor": {
+                    "value": "#0e4272",
+                    "edited": false
+                },
+                "widget-borderColor": {
+                    "value": "#ffffff",
+                    "edited": false
+                },
+                "base-font": {
+                    "value": "-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif"
+                }
+            },
+            "angularTheme": {
+                "primary": "indigo",
+                "accents": "blue",
+                "warn": "red",
+                "background": "yellow",
+                "palette": "light"
+            }
+        },
+        "site": {
+            "name": "Node-RED Dashboard",
+            "hideToolbar": "false",
+            "allowSwipe": "false",
+            "lockMenu": "false",
+            "allowTempTheme": "true",
+            "dateFormat": "DD/MM/YYYY",
+            "sizes": {
+                "sx": 48,
+                "sy": 48,
+                "gx": 6,
+                "gy": 6,
+                "cx": 6,
+                "cy": 6,
+                "px": 0,
+                "py": 0
+            }
+        }
+    },
+    {
+        "id": "17c577ba6e8efe98",
+        "type": "ui_group",
+        "name": "Group 1",
+        "tab": "",
+        "order": 1,
+        "disp": true,
+        "width": 6
+    },
+    {
+        "id": "ef38fa7fd1e91b2f",
+        "type": "ui_group",
+        "name": "Biến tần",
+        "tab": "",
+        "order": 1,
+        "disp": true,
+        "width": 30,
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "7f3a634c9a5f95f9",
+        "type": "ui_group",
+        "name": "Biến tần",
+        "tab": "",
+        "order": 1,
+        "disp": true,
+        "width": 30,
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "b42e7d46799777d5",
+        "type": "ui_tab",
+        "name": "ĐIỀU KHIỂN BIẾN TẦN",
+        "icon": "dashboard",
+        "order": 1,
+        "disabled": false,
+        "hidden": false
+    },
+    {
+        "id": "c0de4ee8a08efc7e",
+        "type": "ui_group",
+        "name": "Điều khiển trạng thái",
+        "tab": "b42e7d46799777d5",
+        "order": 1,
+        "disp": true,
+        "width": 8,
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "1f1d408575b9b174",
+        "type": "ui_group",
+        "name": "Điều khiển tần số",
+        "tab": "b42e7d46799777d5",
+        "order": 2,
+        "disp": true,
+        "width": 7,
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "342f68953fd18249",
+        "type": "ui_group",
+        "name": "Trạng thái biến tần",
+        "tab": "b42e7d46799777d5",
+        "order": 3,
+        "disp": true,
+        "width": 15,
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "bbcd769f70cdfb33",
+        "type": "ui_group",
+        "name": "Biểu đồ",
+        "tab": "b42e7d46799777d5",
+        "order": 4,
+        "disp": true,
+        "width": 15,
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "28e4ea6bd4594ada",
+        "type": "ui_tab",
+        "name": "CÀI ĐẶT THỜI GIAN HOẠT ĐỘNG",
+        "icon": "dashboard",
+        "order": 2,
+        "disabled": false,
+        "hidden": false
+    },
+    {
+        "id": "f4ed03967345eddf",
+        "type": "ui_group",
+        "name": "Khung giờ 1",
+        "tab": "28e4ea6bd4594ada",
+        "order": 2,
+        "disp": true,
+        "width": 7,
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "96d3e444c4485cfc",
+        "type": "ui_group",
+        "name": "Khung giờ 2",
+        "tab": "28e4ea6bd4594ada",
+        "order": 3,
+        "disp": true,
+        "width": 7,
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "fee9280c7fb8fad4",
+        "type": "ui_group",
+        "name": "Khung giờ 3",
+        "tab": "28e4ea6bd4594ada",
+        "order": 4,
+        "disp": true,
+        "width": 7,
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "d71c4d09de6142cc",
+        "type": "ui_group",
+        "name": "Thời gian ",
+        "tab": "28e4ea6bd4594ada",
+        "order": 1,
+        "disp": true,
+        "width": 21,
+        "collapse": false,
+        "className": ""
+    },
+    {
+        "id": "a232648781d7033d",
+        "type": "ui_text",
+        "z": "e3e9b86d5bd0446d",
+        "g": "dec0da89a0e496ac",
+        "group": "c0de4ee8a08efc7e",
+        "order": 4,
+        "width": 3,
+        "height": 1,
+        "name": "",
+        "label": "",
+        "format": "{{msg.payload}}",
+        "layout": "row-center",
+        "className": "",
+        "style": false,
+        "font": "",
+        "fontSize": 16,
+        "color": "#000000",
+        "x": 830,
+        "y": 400,
+        "wires": []
+    },
+    {
+        "id": "374108f169c98b53",
+        "type": "ui_switch",
+        "z": "e3e9b86d5bd0446d",
+        "g": "dec0da89a0e496ac",
+        "name": "",
+        "label": "Điều khiển biến tần",
+        "tooltip": "",
+        "group": "c0de4ee8a08efc7e",
+        "order": 3,
+        "width": 5,
+        "height": 1,
+        "passthru": true,
+        "decouple": "false",
+        "topic": "topic",
+        "topicType": "msg",
+        "style": "",
+        "onvalue": "Đang mở",
+        "onvalueType": "str",
+        "onicon": "",
+        "oncolor": "",
+        "offvalue": "Đang tắt",
+        "offvalueType": "str",
+        "officon": "",
+        "offcolor": "",
+        "animate": false,
+        "className": "",
+        "x": 510,
+        "y": 280,
+        "wires": [
+            [
+                "2060ad7c7a40a237"
+            ]
+        ]
+    },
+    {
+        "id": "1046ce192ef9752a",
+        "type": "ui_switch",
+        "z": "e3e9b86d5bd0446d",
+        "g": "dec0da89a0e496ac",
+        "name": "",
+        "label": "Chiều quay",
+        "tooltip": "",
+        "group": "c0de4ee8a08efc7e",
+        "order": 5,
+        "width": 5,
+        "height": 1,
+        "passthru": true,
+        "decouple": "false",
+        "topic": "topic",
+        "topicType": "msg",
+        "style": "",
+        "onvalue": "Ngược chiều",
+        "onvalueType": "str",
+        "onicon": "",
+        "oncolor": "",
+        "offvalue": "Cùng chiều",
+        "offvalueType": "str",
+        "officon": "",
+        "offcolor": "",
+        "animate": false,
+        "className": "",
+        "x": 490,
+        "y": 520,
+        "wires": [
+            [
+                "2060ad7c7a40a237"
+            ]
+        ]
+    },
+    {
+        "id": "c3df3a9ddde2d184",
+        "type": "ui_text",
+        "z": "e3e9b86d5bd0446d",
+        "g": "dec0da89a0e496ac",
+        "group": "c0de4ee8a08efc7e",
+        "order": 6,
+        "width": 3,
+        "height": 1,
+        "name": "",
+        "label": "",
+        "format": "{{msg.payload}}",
+        "layout": "row-center",
+        "className": "",
+        "style": false,
+        "font": "",
+        "fontSize": 16,
+        "color": "#000000",
+        "x": 830,
+        "y": 480,
+        "wires": []
+    },
+    {
+        "id": "2f14fdeaec36620b",
+        "type": "ui_slider",
+        "z": "e3e9b86d5bd0446d",
+        "g": "38cbb53afcaf017d",
+        "name": "",
+        "label": "",
+        "tooltip": "",
+        "group": "1f1d408575b9b174",
+        "order": 1,
+        "width": 7,
+        "height": 1,
+        "passthru": true,
+        "outs": "end",
+        "topic": "topic",
+        "topicType": "msg",
+        "min": 0,
+        "max": "20",
+        "step": 1,
+        "className": "",
+        "x": 430,
+        "y": 740,
+        "wires": [
+            [
+                "878d962c0aa2b5a2"
+            ]
+        ]
+    },
+    {
+        "id": "d4ecc8ee109a6bf7",
+        "type": "ui_gauge",
+        "z": "e3e9b86d5bd0446d",
+        "g": "38cbb53afcaf017d",
+        "name": "",
+        "group": "1f1d408575b9b174",
+        "order": 2,
+        "width": 7,
+        "height": 3,
+        "gtype": "gage",
+        "title": "Tần số cài đặt",
+        "label": "Hz",
+        "format": "{{value}}",
+        "min": 0,
+        "max": "20",
+        "colors": [
+            "#00b500",
+            "#e6e600",
+            "#ca3838"
+        ],
+        "seg1": "",
+        "seg2": "",
+        "diff": false,
+        "className": "",
+        "x": 840,
+        "y": 800,
+        "wires": []
+    },
+    {
+        "id": "38a7d2416130c279",
+        "type": "ui_gauge",
+        "z": "e3e9b86d5bd0446d",
+        "g": "7df1343c0afd74df",
+        "name": "",
+        "group": "342f68953fd18249",
+        "order": 1,
+        "width": 5,
+        "height": 4,
+        "gtype": "gage",
+        "title": "Tần số thực tế",
+        "label": "Hz",
+        "format": "{{value}}",
+        "min": 0,
+        "max": "20",
+        "colors": [
+            "#00b500",
+            "#e6e600",
+            "#ca3838"
+        ],
+        "seg1": "",
+        "seg2": "",
+        "diff": false,
+        "className": "",
+        "x": 1080,
+        "y": 1020,
+        "wires": []
+    },
+    {
+        "id": "1669df347de0827e",
+        "type": "ui_gauge",
+        "z": "e3e9b86d5bd0446d",
+        "g": "7df1343c0afd74df",
+        "name": "",
+        "group": "342f68953fd18249",
+        "order": 2,
+        "width": 5,
+        "height": 4,
+        "gtype": "gage",
+        "title": "Dòng tải",
+        "label": "A",
+        "format": "{{value}}",
+        "min": 0,
+        "max": "5",
+        "colors": [
+            "#00b500",
+            "#e6e600",
+            "#ca3838"
+        ],
+        "seg1": "",
+        "seg2": "",
+        "diff": false,
+        "className": "",
+        "x": 1060,
+        "y": 1100,
+        "wires": []
+    },
+    {
+        "id": "3a4d901873f4b366",
+        "type": "ui_gauge",
+        "z": "e3e9b86d5bd0446d",
+        "g": "7df1343c0afd74df",
+        "name": "",
+        "group": "342f68953fd18249",
+        "order": 3,
+        "width": 5,
+        "height": 4,
+        "gtype": "gage",
+        "title": "Moment xoắn",
+        "label": "%",
+        "format": "{{value}}",
+        "min": 0,
+        "max": "100",
+        "colors": [
+            "#00b500",
+            "#e6e600",
+            "#ca3838"
+        ],
+        "seg1": "",
+        "seg2": "",
+        "diff": false,
+        "className": "",
+        "x": 1080,
+        "y": 1140,
+        "wires": []
+    },
+    {
+        "id": "c59b6ffb641db370",
+        "type": "ui_chart",
+        "z": "e3e9b86d5bd0446d",
+        "g": "7df1343c0afd74df",
+        "name": "",
+        "group": "bbcd769f70cdfb33",
+        "order": 1,
+        "width": 5,
+        "height": 4,
+        "label": "Biểu đồ về tần số",
+        "chartType": "line",
+        "legend": "false",
+        "xformat": "HH:mm:ss",
+        "interpolate": "linear",
+        "nodata": "",
+        "dot": false,
+        "ymin": "",
+        "ymax": "",
+        "removeOlder": 1,
+        "removeOlderPoints": "",
+        "removeOlderUnit": "60",
+        "cutout": 0,
+        "useOneColor": false,
+        "useUTC": false,
+        "colors": [
+            "#c11515",
+            "#aec7e8",
+            "#ff7f0e",
+            "#2ca02c",
+            "#98df8a",
+            "#d62728",
+            "#ff9896",
+            "#9467bd",
+            "#c5b0d5"
+        ],
+        "outputs": 1,
+        "useDifferentColor": false,
+        "className": "",
+        "x": 1090,
+        "y": 980,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "c42aa36c05c4854d",
+        "type": "OpcUa-Item",
+        "z": "e3e9b86d5bd0446d",
+        "g": "7df1343c0afd74df",
+        "item": "ns=2;s=Channel1.Device1.OUTPUT_FREQUENCY",
+        "datatype": "",
+        "value": "",
+        "name": "OUTPUT_FREQUENCY",
+        "x": 430,
+        "y": 1000,
+        "wires": [
+            [
+                "db4e28b6f0a40152"
+            ]
+        ]
+    },
+    {
+        "id": "db4e28b6f0a40152",
+        "type": "OpcUa-Client",
+        "z": "e3e9b86d5bd0446d",
+        "g": "7df1343c0afd74df",
+        "endpoint": "93166fec6f30088d",
+        "action": "read",
+        "deadbandtype": "a",
+        "deadbandvalue": 1,
+        "time": 10,
+        "timeUnit": "s",
+        "certificate": "n",
+        "localfile": "",
+        "localkeyfile": "",
+        "securitymode": "None",
+        "securitypolicy": "None",
+        "useTransport": false,
+        "maxChunkCount": 1,
+        "maxMessageSize": 8192,
+        "receiveBufferSize": 8192,
+        "sendBufferSize": 8192,
+        "setstatusandtime": false,
+        "keepsessionalive": false,
+        "name": "",
+        "x": 660,
+        "y": 1000,
+        "wires": [
+            [
+                "eda26bc8e7f003a7"
+            ],
+            [],
+            []
+        ]
+    },
+    {
+        "id": "8cd6d015be3c79d9",
+        "type": "inject",
+        "z": "e3e9b86d5bd0446d",
+        "g": "7df1343c0afd74df",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "1",
+        "crontab": "",
+        "once": false,
+        "onceDelay": "1",
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 150,
+        "y": 1080,
+        "wires": [
+            [
+                "c42aa36c05c4854d",
+                "4d59173c82562e6d",
+                "767fc7d4865fb1da"
+            ]
+        ]
+    },
+    {
+        "id": "4d59173c82562e6d",
+        "type": "OpcUa-Item",
+        "z": "e3e9b86d5bd0446d",
+        "g": "7df1343c0afd74df",
+        "item": "ns=2;s=Channel1.Device1.CURRENT_IN_THE_MOTOR",
+        "datatype": "",
+        "value": "",
+        "name": "CURRENT_IN_THE_MOTOR",
+        "x": 410,
+        "y": 1080,
+        "wires": [
+            [
+                "1251a80f2679536f"
+            ]
+        ]
+    },
+    {
+        "id": "767fc7d4865fb1da",
+        "type": "OpcUa-Item",
+        "z": "e3e9b86d5bd0446d",
+        "g": "7df1343c0afd74df",
+        "item": "ns=2;s=Channel1.Device1.MOTOR_TORQUE",
+        "datatype": "",
+        "value": "",
+        "name": "MOTOR_TORQUE",
+        "x": 430,
+        "y": 1160,
+        "wires": [
+            [
+                "218ec1fc63606b68"
+            ]
+        ]
+    },
+    {
+        "id": "1251a80f2679536f",
+        "type": "OpcUa-Client",
+        "z": "e3e9b86d5bd0446d",
+        "g": "7df1343c0afd74df",
+        "endpoint": "93166fec6f30088d",
+        "action": "read",
+        "deadbandtype": "a",
+        "deadbandvalue": 1,
+        "time": 10,
+        "timeUnit": "s",
+        "certificate": "n",
+        "localfile": "",
+        "localkeyfile": "",
+        "securitymode": "None",
+        "securitypolicy": "None",
+        "useTransport": false,
+        "maxChunkCount": 1,
+        "maxMessageSize": 8192,
+        "receiveBufferSize": 8192,
+        "sendBufferSize": 8192,
+        "setstatusandtime": false,
+        "keepsessionalive": false,
+        "name": "",
+        "x": 660,
+        "y": 1080,
+        "wires": [
+            [
+                "48556233f0df64a2"
+            ],
+            [],
+            []
+        ]
+    },
+    {
+        "id": "218ec1fc63606b68",
+        "type": "OpcUa-Client",
+        "z": "e3e9b86d5bd0446d",
+        "g": "7df1343c0afd74df",
+        "endpoint": "93166fec6f30088d",
+        "action": "read",
+        "deadbandtype": "a",
+        "deadbandvalue": 1,
+        "time": 10,
+        "timeUnit": "s",
+        "certificate": "n",
+        "localfile": "",
+        "localkeyfile": "",
+        "securitymode": "None",
+        "securitypolicy": "None",
+        "useTransport": false,
+        "maxChunkCount": 1,
+        "maxMessageSize": 8192,
+        "receiveBufferSize": 8192,
+        "sendBufferSize": 8192,
+        "setstatusandtime": false,
+        "keepsessionalive": false,
+        "name": "",
+        "x": 660,
+        "y": 1160,
+        "wires": [
+            [
+                "3a4d901873f4b366",
+                "a280d65dba1d97c0"
+            ],
+            [],
+            []
+        ]
+    },
+    {
+        "id": "e89ce4c23317edf4",
+        "type": "OpcUa-Client",
+        "z": "e3e9b86d5bd0446d",
+        "g": "38cbb53afcaf017d",
+        "endpoint": "93166fec6f30088d",
+        "action": "write",
+        "deadbandtype": "a",
+        "deadbandvalue": 1,
+        "time": 10,
+        "timeUnit": "s",
+        "certificate": "n",
+        "localfile": "",
+        "localkeyfile": "",
+        "securitymode": "None",
+        "securitypolicy": "None",
+        "useTransport": false,
+        "maxChunkCount": 1,
+        "maxMessageSize": 8192,
+        "receiveBufferSize": 8192,
+        "sendBufferSize": 8192,
+        "setstatusandtime": false,
+        "keepsessionalive": false,
+        "name": "",
+        "x": 1140,
+        "y": 680,
+        "wires": [
+            [],
+            [],
+            []
+        ]
+    },
+    {
+        "id": "8a7ef53683e5e33c",
+        "type": "OpcUa-Item",
+        "z": "e3e9b86d5bd0446d",
+        "g": "38cbb53afcaf017d",
+        "item": "ns=2;s=Channel1.Device1.FREQUENCY_REFERENCE",
+        "datatype": "UInt16",
+        "value": "",
+        "name": "FREQUENCY_REFERENCE",
+        "x": 880,
+        "y": 680,
+        "wires": [
+            [
+                "e89ce4c23317edf4"
+            ]
+        ]
+    },
+    {
+        "id": "9ae238f954737ea5",
+        "type": "OpcUa-Item",
+        "z": "e3e9b86d5bd0446d",
+        "g": "dec0da89a0e496ac",
+        "item": "ns=2;s=Channel1.Device1.CONTROL_WORD",
+        "datatype": "UInt16",
+        "value": "",
+        "name": "CONTROL_WORD",
+        "x": 870,
+        "y": 320,
+        "wires": [
+            [
+                "41517514e7dcf2b9"
+            ]
+        ]
+    },
+    {
+        "id": "41517514e7dcf2b9",
+        "type": "OpcUa-Client",
+        "z": "e3e9b86d5bd0446d",
+        "g": "dec0da89a0e496ac",
+        "endpoint": "93166fec6f30088d",
+        "action": "write",
+        "deadbandtype": "a",
+        "deadbandvalue": 1,
+        "time": 10,
+        "timeUnit": "s",
+        "certificate": "n",
+        "localfile": "",
+        "localkeyfile": "",
+        "securitymode": "None",
+        "securitypolicy": "None",
+        "useTransport": false,
+        "maxChunkCount": 1,
+        "maxMessageSize": 8192,
+        "receiveBufferSize": 8192,
+        "sendBufferSize": 8192,
+        "setstatusandtime": false,
+        "keepsessionalive": false,
+        "name": "",
+        "x": 1100,
+        "y": 320,
+        "wires": [
+            [],
+            [],
+            []
+        ]
+    },
+    {
+        "id": "2060ad7c7a40a237",
+        "type": "function",
+        "z": "e3e9b86d5bd0446d",
+        "g": "dec0da89a0e496ac",
+        "name": "Điều khiển trạng thái",
+        "func": "var str = msg.payload;\n\n// Đọc giá trị của Switch điều khiển hoặc của chế độ hẹn giờ\n// Để ghi giá trị vào biến \"chieuQuay_cucBo\"\nif (str == \"Ngược chiều\") {\n    global.set(\"chieuQuay_cucBo\", str) || \"Cùng chiều\";\n}\nif (str == \"Cùng chiều\") {\n    global.set(\"chieuQuay_cucBo\", str) || \"Cùng chiều\";\n}\n\n// Đọc giá trị của Switch điều khiển hoặc của chế độ hẹn giờ\n// Để ghi giá trị vào biến \"trangThai_cucBo\"\nif (str == \"Đang mở\") {\n    global.set(\"trangThai_cucBo\", str) || \"Đang tắt\";\n}\nif (str == \"Đang tắt\") {\n    global.set(\"trangThai_cucBo\", str) || \"Đang tắt\";\n}\n\n// Ghi giá trị từ biến \"chieuQuay_cucBo\" và \"trangThai_cucBo\" vào OPC Server\nif (global.get(\"trangThai_cucBo\") == \"Đang tắt\") {\n    msg.payload = 4111;\n    var msg2 = { payload: \"Đang tắt\" };\n    if (global.get(\"chieuQuay_cucBo\") == \"Cùng chiều\") {\n        var msg3 = { payload: \"Cùng chiều\" };\n    }\n    else {\n        var msg3 = { payload: \"Ngược chiều\" };\n    }\n    \n    return [msg, msg2, msg3];\n}\nelse {\n    if (global.get(\"chieuQuay_cucBo\") == \"Cùng chiều\") {\n        msg.payload = 15;\n        var msg2 = { payload: \"Đang mở\" };\n        var msg3 = { payload: \"Cùng chiều\" };\n        return [msg, msg2, msg3];\n    }\n    else {\n        msg.payload = 2063;\n        var msg2 = { payload: \"Đang mở\" };\n        var msg3 = { payload: \"Ngược chiều\" };;\n        return [msg, msg2, msg3];\n    }\n}\n",
+        "outputs": 3,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "// Code added here will be run once\n// whenever the node is started.\nglobal.set(\"chieuQuay_cucBo\", \"Cùng chiều\") || \"Cùng chiều\";\nglobal.set(\"trangThai_cucBo\", \"Đang tắt\") || \"Đang tắt\";",
+        "finalize": "",
+        "libs": [],
+        "x": 640,
+        "y": 400,
+        "wires": [
+            [
+                "9ae238f954737ea5"
+            ],
+            [
+                "a232648781d7033d"
+            ],
+            [
+                "c3df3a9ddde2d184"
+            ]
+        ]
+    },
+    {
+        "id": "74f40c53f2c1bd60",
+        "type": "comment",
+        "z": "e3e9b86d5bd0446d",
+        "g": "dec0da89a0e496ac",
+        "name": "Điều khiển trạng thái của biến tần",
+        "info": "",
+        "x": 1070,
+        "y": 520,
+        "wires": []
+    },
+    {
+        "id": "8ed160ebf0e6651c",
+        "type": "comment",
+        "z": "e3e9b86d5bd0446d",
+        "g": "38cbb53afcaf017d",
+        "name": "Điều khiển tần số của biến tần",
+        "info": "",
+        "x": 1120,
+        "y": 820,
+        "wires": []
+    },
+    {
+        "id": "5dfbacbbbcc1b093",
+        "type": "comment",
+        "z": "e3e9b86d5bd0446d",
+        "g": "7df1343c0afd74df",
+        "name": "Đọc các dữ liệu cần thiết - đọc sau mỗi 1s",
+        "info": "",
+        "x": 220,
+        "y": 940,
+        "wires": []
+    },
+    {
+        "id": "c155ba869ad78135",
+        "type": "ui_chart",
+        "z": "e3e9b86d5bd0446d",
+        "g": "7df1343c0afd74df",
+        "name": "",
+        "group": "bbcd769f70cdfb33",
+        "order": 2,
+        "width": 5,
+        "height": 4,
+        "label": "Biểu đồ về dòng tải",
+        "chartType": "line",
+        "legend": "false",
+        "xformat": "HH:mm:ss",
+        "interpolate": "linear",
+        "nodata": "",
+        "dot": false,
+        "ymin": "",
+        "ymax": "",
+        "removeOlder": 1,
+        "removeOlderPoints": "",
+        "removeOlderUnit": "60",
+        "cutout": 0,
+        "useOneColor": false,
+        "useUTC": false,
+        "colors": [
+            "#1f77b4",
+            "#aec7e8",
+            "#ff7f0e",
+            "#2ca02c",
+            "#98df8a",
+            "#d62728",
+            "#ff9896",
+            "#9467bd",
+            "#c5b0d5"
+        ],
+        "outputs": 1,
+        "useDifferentColor": false,
+        "className": "",
+        "x": 1090,
+        "y": 1060,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "a280d65dba1d97c0",
+        "type": "ui_chart",
+        "z": "e3e9b86d5bd0446d",
+        "g": "7df1343c0afd74df",
+        "name": "",
+        "group": "bbcd769f70cdfb33",
+        "order": 3,
+        "width": 5,
+        "height": 4,
+        "label": "Biểu đồ về moment xoắn",
+        "chartType": "line",
+        "legend": "false",
+        "xformat": "HH:mm:ss",
+        "interpolate": "linear",
+        "nodata": "",
+        "dot": false,
+        "ymin": "",
+        "ymax": "",
+        "removeOlder": 1,
+        "removeOlderPoints": "",
+        "removeOlderUnit": "60",
+        "cutout": 0,
+        "useOneColor": false,
+        "useUTC": false,
+        "colors": [
+            "#ff7f0e",
+            "#aec7e8",
+            "#ff7f0e",
+            "#2ca02c",
+            "#98df8a",
+            "#d62728",
+            "#ff9896",
+            "#9467bd",
+            "#c5b0d5"
+        ],
+        "outputs": 1,
+        "useDifferentColor": false,
+        "className": "",
+        "x": 1110,
+        "y": 1180,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "eda26bc8e7f003a7",
+        "type": "function",
+        "z": "e3e9b86d5bd0446d",
+        "g": "7df1343c0afd74df",
+        "name": "Chuyển đổi tần số",
+        "func": "msg.payload = parseFloat(msg.payload / 10).toFixed(1);\nreturn msg;\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 870,
+        "y": 1000,
+        "wires": [
+            [
+                "c59b6ffb641db370",
+                "38a7d2416130c279"
+            ]
+        ]
+    },
+    {
+        "id": "48556233f0df64a2",
+        "type": "function",
+        "z": "e3e9b86d5bd0446d",
+        "g": "7df1343c0afd74df",
+        "name": "Chuyển đổi dòng điện",
+        "func": "msg.payload = parseFloat(msg.payload / 10).toFixed(1);\nreturn msg;\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 880,
+        "y": 1080,
+        "wires": [
+            [
+                "c155ba869ad78135",
+                "1669df347de0827e"
+            ]
+        ]
+    },
+    {
+        "id": "93673f867685d19b",
+        "type": "inject",
+        "z": "e3e9b86d5bd0446d",
+        "g": "ba338f346a828f39",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "1",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 150,
+        "y": 120,
+        "wires": [
+            [
+                "bb4c63f20b6bb1cd",
+                "d0dfa69b0bdaa7b7"
+            ]
+        ]
+    },
+    {
+        "id": "33ba8497a7e9ae6b",
+        "type": "ui_text",
+        "z": "e3e9b86d5bd0446d",
+        "g": "ba338f346a828f39",
+        "group": "c0de4ee8a08efc7e",
+        "order": 1,
+        "width": 8,
+        "height": 1,
+        "name": "",
+        "label": "Ngày: ",
+        "format": "{{msg.payload}}",
+        "layout": "row-left",
+        "className": "",
+        "style": true,
+        "font": "Times New Roman,Times,serif",
+        "fontSize": "20",
+        "color": "#6b8e23",
+        "x": 590,
+        "y": 120,
+        "wires": []
+    },
+    {
+        "id": "bb4c63f20b6bb1cd",
+        "type": "moment",
+        "z": "e3e9b86d5bd0446d",
+        "g": "ba338f346a828f39",
+        "name": "",
+        "topic": "",
+        "input": "",
+        "inputType": "msg",
+        "inTz": "Asia/Bangkok",
+        "adjAmount": 0,
+        "adjType": "days",
+        "adjDir": "add",
+        "format": "dddd, DD/MM/YYYY",
+        "locale": "en-US",
+        "output": "",
+        "outputType": "msg",
+        "outTz": "Asia/Bangkok",
+        "x": 380,
+        "y": 120,
+        "wires": [
+            [
+                "33ba8497a7e9ae6b"
+            ]
+        ]
+    },
+    {
+        "id": "d0dfa69b0bdaa7b7",
+        "type": "moment",
+        "z": "e3e9b86d5bd0446d",
+        "g": "ba338f346a828f39",
+        "name": "",
+        "topic": "",
+        "input": "",
+        "inputType": "msg",
+        "inTz": "Asia/Bangkok",
+        "adjAmount": 0,
+        "adjType": "days",
+        "adjDir": "add",
+        "format": "HH:mm:ss",
+        "locale": "en-US",
+        "output": "",
+        "outputType": "msg",
+        "outTz": "Asia/Bangkok",
+        "x": 380,
+        "y": 180,
+        "wires": [
+            [
+                "3b9bdb7a46f40e29"
+            ]
+        ]
+    },
+    {
+        "id": "3b9bdb7a46f40e29",
+        "type": "ui_text",
+        "z": "e3e9b86d5bd0446d",
+        "g": "ba338f346a828f39",
+        "group": "c0de4ee8a08efc7e",
+        "order": 2,
+        "width": 8,
+        "height": 1,
+        "name": "",
+        "label": "Giờ: ",
+        "format": "{{msg.payload}}",
+        "layout": "row-left",
+        "className": "",
+        "style": true,
+        "font": "Times New Roman,Times,serif",
+        "fontSize": "20",
+        "color": "#6b8e23",
+        "x": 590,
+        "y": 180,
+        "wires": []
+    },
+    {
+        "id": "f5ad198a792e130f",
+        "type": "inject",
+        "z": "e3e9b86d5bd0446d",
+        "g": "dec0da89a0e496ac",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": true,
+        "onceDelay": "0.1",
+        "topic": "",
+        "payload": "Đang tắt",
+        "payloadType": "str",
+        "x": 140,
+        "y": 280,
+        "wires": [
+            [
+                "374108f169c98b53"
+            ]
+        ]
+    },
+    {
+        "id": "dbe89577607b8696",
+        "type": "inject",
+        "z": "e3e9b86d5bd0446d",
+        "g": "dec0da89a0e496ac",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": true,
+        "onceDelay": "0.1",
+        "topic": "",
+        "payload": "Cùng chiều",
+        "payloadType": "str",
+        "x": 150,
+        "y": 520,
+        "wires": [
+            [
+                "1046ce192ef9752a"
+            ]
+        ]
+    },
+    {
+        "id": "66c0aea70a8079bc",
+        "type": "link in",
+        "z": "e3e9b86d5bd0446d",
+        "g": "dec0da89a0e496ac",
+        "name": "1",
+        "links": [
+            "01da6c21abea8abe",
+            "2d5debe2c26b218d",
+            "4ed560d36cc41fcb",
+            "e3311847859422c7",
+            "efe726c857f51d7c",
+            "ff9f7f040baa3f96"
+        ],
+        "x": 75,
+        "y": 400,
+        "wires": [
+            [
+                "87f8cd8ca51998f7",
+                "ec3cc227d64a2e25",
+                "42c8eacf1fba8798"
+            ]
+        ]
+    },
+    {
+        "id": "b342e3e3c7f79535",
+        "type": "link in",
+        "z": "e3e9b86d5bd0446d",
+        "g": "38cbb53afcaf017d",
+        "name": "1",
+        "links": [
+            "01da6c21abea8abe",
+            "2d5debe2c26b218d",
+            "4ed560d36cc41fcb",
+            "e3311847859422c7",
+            "efe726c857f51d7c",
+            "ff9f7f040baa3f96"
+        ],
+        "x": 85,
+        "y": 740,
+        "wires": [
+            [
+                "ec56e8f7fb7e1e50",
+                "a87a3be68c863ce0"
+            ]
+        ]
+    },
+    {
+        "id": "7f1ae8ec64b0d496",
+        "type": "inject",
+        "z": "e3e9b86d5bd0446d",
+        "g": "38cbb53afcaf017d",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": true,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "0",
+        "payloadType": "num",
+        "x": 290,
+        "y": 740,
+        "wires": [
+            [
+                "2f14fdeaec36620b"
+            ]
+        ]
+    },
+    {
+        "id": "87f8cd8ca51998f7",
+        "type": "function",
+        "z": "e3e9b86d5bd0446d",
+        "g": "dec0da89a0e496ac",
+        "name": "chuyển trạng thái",
+        "func": "// Nếu đến thời gian đã cài đặt trước\n// Truyền trạng thái dã cài đặt vào biến \"trangThai_cucBo\"\nif (global.get(\"enableKg1\") == false) {\n    msg.payload = global.get(\"trangThai1\");\n}\nelse if (global.get(\"enableKg2\") == false) {\n    msg.payload = global.get(\"trangThai2\");\n}\nelse if (global.get(\"enableKg3\") == false) {\n    msg.payload = global.get(\"trangThai3\");\n}\nelse {\n    msg.payload = global.get(\"trangThai_cucBo\"); // Ngược lại thì giữ nguyên\n}\n\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 230,
+        "y": 360,
+        "wires": [
+            [
+                "374108f169c98b53"
+            ]
+        ]
+    },
+    {
+        "id": "ec3cc227d64a2e25",
+        "type": "function",
+        "z": "e3e9b86d5bd0446d",
+        "g": "dec0da89a0e496ac",
+        "name": "Chuyển chiều quay",
+        "func": "if (global.get(\"enableKg1\") == false) {\n    msg.payload = global.get(\"chieuQuay1\");\n}\nelse if (global.get(\"enableKg2\") == false) {\n    msg.payload = global.get(\"chieuQuay2\");\n}\nelse if (global.get(\"enableKg3\") == false) {\n    msg.payload = global.get(\"chieuQuay3\");\n}\nelse {\n    msg.payload = global.get(\"chieuQuay_cucBo\");\n}\n\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 230,
+        "y": 440,
+        "wires": [
+            [
+                "1046ce192ef9752a"
+            ]
+        ]
+    },
+    {
+        "id": "ec56e8f7fb7e1e50",
+        "type": "function",
+        "z": "e3e9b86d5bd0446d",
+        "g": "38cbb53afcaf017d",
+        "name": "Chuyển tần số",
+        "func": "if (global.get(\"enableKg1\") == false) {\n    msg.payload = global.get(\"tanSo1\");\n}\nelse if (global.get(\"enableKg2\") == false) {\n    msg.payload = global.get(\"tanSo2\");\n}\nelse if (global.get(\"enableKg3\") == false) {\n    msg.payload = global.get(\"tanSo3\");\n}\nelse {\n    msg.payload = global.get(\"tanSo_cucBo\");\n}\n\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 260,
+        "y": 660,
+        "wires": [
+            [
+                "2f14fdeaec36620b"
+            ]
+        ]
+    },
+    {
+        "id": "878d962c0aa2b5a2",
+        "type": "function",
+        "z": "e3e9b86d5bd0446d",
+        "g": "38cbb53afcaf017d",
+        "name": "Điều khiển tần số",
+        "func": "var num = msg.payload;\n\n// Đọc giá trị của Slider điều khiển hoặc của chế độ hẹn giờ\n// Để ghi giá trị vào biến \"tanSo_cucBo\"\nglobal.set(\"tanSo_cucBo\", num) || 0;\nmsg.payload = num\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "// Code added here will be run once\n// whenever the node is started.\nglobal.set(\"tanSo_cucBo\", 0) || 0;",
+        "finalize": "",
+        "libs": [],
+        "x": 610,
+        "y": 740,
+        "wires": [
+            [
+                "8a7ef53683e5e33c",
+                "d4ecc8ee109a6bf7"
+            ]
+        ]
+    },
+    {
+        "id": "42c8eacf1fba8798",
+        "type": "function",
+        "z": "e3e9b86d5bd0446d",
+        "g": "dec0da89a0e496ac",
+        "name": "Cho phép điều chỉnh 1",
+        "func": "if ((global.get(\"enableKg1\") == false) || (global.get(\"enableKg2\") == false) || (global.get(\"enableKg3\") == false)) {\n    msg.enabled = false;\n}\nelse {\n    msg.enabled = true;\n}\n\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 240,
+        "y": 400,
+        "wires": [
+            [
+                "374108f169c98b53",
+                "1046ce192ef9752a"
+            ]
+        ]
+    },
+    {
+        "id": "a87a3be68c863ce0",
+        "type": "function",
+        "z": "e3e9b86d5bd0446d",
+        "g": "38cbb53afcaf017d",
+        "name": "Cho phép điều chỉnh 2",
+        "func": "if ((global.get(\"enableKg1\") == false) || (global.get(\"enableKg2\") == false) || (global.get(\"enableKg3\") == false)) {\n    var msg2 = {enabled:false};\n    return msg2;\n}\nelse {\n    var msg2 = {enabled:true};\n    return msg2;\n}\n",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 240,
+        "y": 820,
+        "wires": [
+            [
+                "2f14fdeaec36620b"
+            ]
+        ]
+    },
+    {
+        "id": "202b8eb2cae96620",
+        "type": "comment",
+        "z": "e3e9b86d5bd0446d",
+        "g": "ba338f346a828f39",
+        "name": "Thời gian",
+        "info": "",
+        "x": 600,
+        "y": 60,
+        "wires": []
+    },
+    {
+        "id": "afbca2268a3d30ec",
+        "type": "inject",
+        "z": "5c9497a8022e826d",
+        "g": "84fe9588e3ff1d42",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "1",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "x": 150,
+        "y": 120,
+        "wires": [
+            [
+                "8f28392bdc99c686",
+                "7bd439170f61abb1"
+            ]
+        ]
+    },
+    {
+        "id": "7f20c983431e8f6d",
+        "type": "ui_text",
+        "z": "5c9497a8022e826d",
+        "g": "84fe9588e3ff1d42",
+        "group": "d71c4d09de6142cc",
+        "order": 1,
+        "width": 21,
+        "height": 1,
+        "name": "",
+        "label": "Ngày: ",
+        "format": "{{msg.payload}}",
+        "layout": "row-center",
+        "className": "",
+        "style": true,
+        "font": "Times New Roman,Times,serif",
+        "fontSize": "20",
+        "color": "#6b8e23",
+        "x": 590,
+        "y": 120,
+        "wires": []
+    },
+    {
+        "id": "8f28392bdc99c686",
+        "type": "moment",
+        "z": "5c9497a8022e826d",
+        "g": "84fe9588e3ff1d42",
+        "name": "",
+        "topic": "",
+        "input": "",
+        "inputType": "msg",
+        "inTz": "Asia/Bangkok",
+        "adjAmount": 0,
+        "adjType": "days",
+        "adjDir": "add",
+        "format": "dddd, DD/MM/YYYY",
+        "locale": "en-US",
+        "output": "",
+        "outputType": "msg",
+        "outTz": "Asia/Bangkok",
+        "x": 380,
+        "y": 120,
+        "wires": [
+            [
+                "7f20c983431e8f6d"
+            ]
+        ]
+    },
+    {
+        "id": "7bd439170f61abb1",
+        "type": "moment",
+        "z": "5c9497a8022e826d",
+        "g": "84fe9588e3ff1d42",
+        "name": "",
+        "topic": "",
+        "input": "",
+        "inputType": "msg",
+        "inTz": "Asia/Bangkok",
+        "adjAmount": 0,
+        "adjType": "days",
+        "adjDir": "add",
+        "format": "HH:mm:ss",
+        "locale": "en-US",
+        "output": "",
+        "outputType": "msg",
+        "outTz": "Asia/Bangkok",
+        "x": 380,
+        "y": 180,
+        "wires": [
+            [
+                "1e9feb66a4fb5b86"
+            ]
+        ]
+    },
+    {
+        "id": "1e9feb66a4fb5b86",
+        "type": "ui_text",
+        "z": "5c9497a8022e826d",
+        "g": "84fe9588e3ff1d42",
+        "group": "d71c4d09de6142cc",
+        "order": 2,
+        "width": 21,
+        "height": 1,
+        "name": "",
+        "label": "Giờ: ",
+        "format": "{{msg.payload}}",
+        "layout": "row-center",
+        "className": "",
+        "style": true,
+        "font": "Times New Roman,Times,serif",
+        "fontSize": "20",
+        "color": "#6b8e23",
+        "x": 590,
+        "y": 180,
+        "wires": []
+    },
+    {
+        "id": "7e8734a0b4e7a306",
+        "type": "inject",
+        "z": "5c9497a8022e826d",
+        "g": "19461add7179f419",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": true,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "false",
+        "payloadType": "bool",
+        "x": 130,
+        "y": 320,
+        "wires": [
+            [
+                "6313fb26f3cef2bf"
+            ]
+        ]
+    },
+    {
+        "id": "6313fb26f3cef2bf",
+        "type": "ui_switch",
+        "z": "5c9497a8022e826d",
+        "g": "19461add7179f419",
+        "name": "",
+        "label": "Cho phép hoạt động",
+        "tooltip": "",
+        "group": "f4ed03967345eddf",
+        "order": 1,
+        "width": 7,
+        "height": 1,
+        "passthru": true,
+        "decouple": "false",
+        "topic": "topic",
+        "topicType": "msg",
+        "style": "",
+        "onvalue": "true",
+        "onvalueType": "bool",
+        "onicon": "",
+        "oncolor": "",
+        "offvalue": "false",
+        "offvalueType": "bool",
+        "officon": "",
+        "offcolor": "",
+        "animate": false,
+        "className": "",
+        "x": 320,
+        "y": 320,
+        "wires": [
+            [
+                "5b4a6e2a300fb457",
+                "5068271e517cc7d4"
+            ]
+        ]
+    },
+    {
+        "id": "5b4a6e2a300fb457",
+        "type": "change",
+        "z": "5c9497a8022e826d",
+        "g": "19461add7179f419",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "enabled",
+                "pt": "msg",
+                "to": "payload",
+                "tot": "msg"
+            },
+            {
+                "t": "set",
+                "p": "disableDevice",
+                "pt": "msg",
+                "to": "0",
+                "tot": "num"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 540,
+        "y": 320,
+        "wires": [
+            [
+                "5c248056dcef7888",
+                "05250110c8c14b7f",
+                "3b6415194f02feda",
+                "7e2212f4ad6a6f0c"
+            ]
+        ]
+    },
+    {
+        "id": "5c248056dcef7888",
+        "type": "ui_time_scheduler",
+        "z": "5c9497a8022e826d",
+        "g": "19461add7179f419",
+        "group": "f4ed03967345eddf",
+        "name": "",
+        "startDay": 0,
+        "refresh": 60,
+        "devices": [
+            "Khung thời gian"
+        ],
+        "singleOff": true,
+        "onlySendChange": true,
+        "customPayload": false,
+        "eventMode": false,
+        "eventOptions": [],
+        "sendTopic": false,
+        "lat": "",
+        "lon": "",
+        "customContextStore": "",
+        "outputs": 2,
+        "order": 5,
+        "width": 7,
+        "height": 1,
+        "x": 750,
+        "y": 300,
+        "wires": [
+            [],
+            [
+                "0eac9a716f4d15be"
+            ]
+        ]
+    },
+    {
+        "id": "efe726c857f51d7c",
+        "type": "link out",
+        "z": "5c9497a8022e826d",
+        "g": "19461add7179f419",
+        "name": "2",
+        "mode": "link",
+        "links": [
+            "66c0aea70a8079bc",
+            "b342e3e3c7f79535"
+        ],
+        "x": 1205,
+        "y": 300,
+        "wires": []
+    },
+    {
+        "id": "0eac9a716f4d15be",
+        "type": "function",
+        "z": "5c9497a8022e826d",
+        "g": "19461add7179f419",
+        "name": "Đến thời thời gian cài đặt 1",
+        "func": "var data = msg.payload;\n\n// Đảo chiều để có thể bật tắt điều khiển thủ công\nif (data == true) {\n    data = false;\n}\nelse {\n    data = true;\n}\n\n// Lưu giá trị vào biến cho phép hoạt động của khung giờ 1\nglobal.set(\"enableKg1\", data) || true;\n\nmsg.payload = data;\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "// Code added here will be run once\n// whenever the node is started.\nglobal.set(\"enableKg1\", true) || true;\nglobal.set(\"trangThai1\", \"Đang tắt\") || \"Đang tắt\";\nglobal.set(\"chieuQuay1\", \"Cùng chiều\") || \"Cùng chiều\";\nglobal.set(\"tanSo1\", 0) || 0;",
+        "finalize": "",
+        "libs": [],
+        "x": 1040,
+        "y": 300,
+        "wires": [
+            [
+                "efe726c857f51d7c"
+            ]
+        ]
+    },
+    {
+        "id": "7e2212f4ad6a6f0c",
+        "type": "ui_numeric",
+        "z": "5c9497a8022e826d",
+        "g": "19461add7179f419",
+        "name": "",
+        "label": "Tần số cài đặt",
+        "tooltip": "",
+        "group": "f4ed03967345eddf",
+        "order": 4,
+        "width": 7,
+        "height": 1,
+        "wrap": false,
+        "passthru": true,
+        "topic": "topic",
+        "topicType": "msg",
+        "format": "{{value}}",
+        "min": 0,
+        "max": "20",
+        "step": 1,
+        "className": "",
+        "x": 760,
+        "y": 480,
+        "wires": [
+            [
+                "055fd171dcf6fb4b"
+            ]
+        ]
+    },
+    {
+        "id": "3b6415194f02feda",
+        "type": "ui_dropdown",
+        "z": "5c9497a8022e826d",
+        "g": "19461add7179f419",
+        "name": "",
+        "label": "Chiều quay",
+        "tooltip": "",
+        "place": "Select option",
+        "group": "f4ed03967345eddf",
+        "order": 3,
+        "width": 7,
+        "height": 1,
+        "passthru": true,
+        "multiple": false,
+        "options": [
+            {
+                "label": "Ngược chiều",
+                "value": "Ngược chiều",
+                "type": "str"
+            },
+            {
+                "label": "Cùng chiều",
+                "value": "Cùng chiều",
+                "type": "str"
+            }
+        ],
+        "payload": "",
+        "topic": "topic",
+        "topicType": "msg",
+        "className": "",
+        "x": 750,
+        "y": 420,
+        "wires": [
+            [
+                "1ee9645a57f0b56c"
+            ]
+        ]
+    },
+    {
+        "id": "05250110c8c14b7f",
+        "type": "ui_dropdown",
+        "z": "5c9497a8022e826d",
+        "g": "19461add7179f419",
+        "name": "",
+        "label": "Trạng thái hoạt động",
+        "tooltip": "",
+        "place": "Select option",
+        "group": "f4ed03967345eddf",
+        "order": 2,
+        "width": 7,
+        "height": 1,
+        "passthru": true,
+        "multiple": false,
+        "options": [
+            {
+                "label": "Mở",
+                "value": "Đang mở",
+                "type": "str"
+            },
+            {
+                "label": "Tắt",
+                "value": "Đang tắt",
+                "type": "str"
+            }
+        ],
+        "payload": "",
+        "topic": "topic",
+        "topicType": "msg",
+        "className": "",
+        "x": 780,
+        "y": 360,
+        "wires": [
+            [
+                "68d07d2c24ad8280"
+            ]
+        ]
+    },
+    {
+        "id": "68d07d2c24ad8280",
+        "type": "function",
+        "z": "5c9497a8022e826d",
+        "g": "19461add7179f419",
+        "name": "Cài đặt trạng thái khung giờ 1",
+        "func": "global.set(\"trangThai1\", msg.payload) || \"Đang tắt\";\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1050,
+        "y": 360,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "1ee9645a57f0b56c",
+        "type": "function",
+        "z": "5c9497a8022e826d",
+        "g": "19461add7179f419",
+        "name": "Cài đặt chiều quay khung giờ 1",
+        "func": "global.set(\"chieuQuay1\", msg.payload) || \"Cùng chiều\";\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1050,
+        "y": 420,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "5068271e517cc7d4",
+        "type": "function",
+        "z": "5c9497a8022e826d",
+        "g": "19461add7179f419",
+        "name": "Cho phép điều chỉnh 3",
+        "func": "if (msg.payload == false) {\n    global.set(\"enableKg1\", true) || true;\n}\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "// Code added here will be run once\n// whenever the node is started.\nglobal.set(\"enableKg1\", true) || true;",
+        "finalize": "",
+        "libs": [],
+        "x": 420,
+        "y": 420,
+        "wires": [
+            [
+                "ff9f7f040baa3f96"
+            ]
+        ]
+    },
+    {
+        "id": "ff9f7f040baa3f96",
+        "type": "link out",
+        "z": "5c9497a8022e826d",
+        "g": "19461add7179f419",
+        "name": "2",
+        "mode": "link",
+        "links": [
+            "66c0aea70a8079bc",
+            "b342e3e3c7f79535"
+        ],
+        "x": 585,
+        "y": 420,
+        "wires": []
+    },
+    {
+        "id": "055fd171dcf6fb4b",
+        "type": "function",
+        "z": "5c9497a8022e826d",
+        "g": "19461add7179f419",
+        "name": "Cài đặt tần số khung giờ 1",
+        "func": "global.set(\"tanSo1\", msg.payload) || 0;\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1040,
+        "y": 480,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "f11b73a189aabcbd",
+        "type": "inject",
+        "z": "5c9497a8022e826d",
+        "g": "351364d58b488f0b",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": true,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "false",
+        "payloadType": "bool",
+        "x": 130,
+        "y": 620,
+        "wires": [
+            [
+                "7345c0aa9247578e"
+            ]
+        ]
+    },
+    {
+        "id": "7345c0aa9247578e",
+        "type": "ui_switch",
+        "z": "5c9497a8022e826d",
+        "g": "351364d58b488f0b",
+        "name": "",
+        "label": "Cho phép hoạt động",
+        "tooltip": "",
+        "group": "96d3e444c4485cfc",
+        "order": 1,
+        "width": 7,
+        "height": 1,
+        "passthru": true,
+        "decouple": "false",
+        "topic": "topic",
+        "topicType": "msg",
+        "style": "",
+        "onvalue": "true",
+        "onvalueType": "bool",
+        "onicon": "",
+        "oncolor": "",
+        "offvalue": "false",
+        "offvalueType": "bool",
+        "officon": "",
+        "offcolor": "",
+        "animate": false,
+        "className": "",
+        "x": 320,
+        "y": 620,
+        "wires": [
+            [
+                "54aaaedb706261d4",
+                "85c67f2fc785433c"
+            ]
+        ]
+    },
+    {
+        "id": "54aaaedb706261d4",
+        "type": "change",
+        "z": "5c9497a8022e826d",
+        "g": "351364d58b488f0b",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "enabled",
+                "pt": "msg",
+                "to": "payload",
+                "tot": "msg"
+            },
+            {
+                "t": "set",
+                "p": "disableDevice",
+                "pt": "msg",
+                "to": "0",
+                "tot": "num"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 540,
+        "y": 620,
+        "wires": [
+            [
+                "6ff6e18d939c4ef9",
+                "99011c18f97aa86c",
+                "b07c81dd1f134fb7",
+                "f8fdb7c11919a60a"
+            ]
+        ]
+    },
+    {
+        "id": "6ff6e18d939c4ef9",
+        "type": "ui_time_scheduler",
+        "z": "5c9497a8022e826d",
+        "g": "351364d58b488f0b",
+        "group": "96d3e444c4485cfc",
+        "name": "",
+        "startDay": 0,
+        "refresh": 60,
+        "devices": [
+            "Khung thời gian"
+        ],
+        "singleOff": true,
+        "onlySendChange": true,
+        "customPayload": false,
+        "eventMode": false,
+        "eventOptions": [],
+        "sendTopic": false,
+        "lat": "",
+        "lon": "",
+        "customContextStore": "",
+        "outputs": 2,
+        "order": 5,
+        "width": 7,
+        "height": 1,
+        "x": 750,
+        "y": 600,
+        "wires": [
+            [],
+            [
+                "1c339745837b2ed3"
+            ]
+        ]
+    },
+    {
+        "id": "4ed560d36cc41fcb",
+        "type": "link out",
+        "z": "5c9497a8022e826d",
+        "g": "351364d58b488f0b",
+        "name": "2",
+        "mode": "link",
+        "links": [
+            "66c0aea70a8079bc",
+            "b342e3e3c7f79535"
+        ],
+        "x": 1205,
+        "y": 600,
+        "wires": []
+    },
+    {
+        "id": "1c339745837b2ed3",
+        "type": "function",
+        "z": "5c9497a8022e826d",
+        "g": "351364d58b488f0b",
+        "name": "Đến thời thời gian cài đặt 2",
+        "func": "var data = msg.payload;\n\nif (data == true) {\n    data = false;\n}\nelse {\n    data = true;\n}\n\nglobal.set(\"enableKg2\", data) || true;\n\nmsg.payload = data;\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "// Code added here will be run once\n// whenever the node is started.\nglobal.set(\"enableKg2\", true) || true;\nglobal.set(\"trangThai2\", \"Đang tắt\") || \"Đang tắt\";\nglobal.set(\"chieuQuay2\", \"Cùng chiều\") || \"Cùng chiều\";\nglobal.set(\"tanSo2\", 0) || 0;",
+        "finalize": "",
+        "libs": [],
+        "x": 1040,
+        "y": 600,
+        "wires": [
+            [
+                "4ed560d36cc41fcb"
+            ]
+        ]
+    },
+    {
+        "id": "f8fdb7c11919a60a",
+        "type": "ui_numeric",
+        "z": "5c9497a8022e826d",
+        "g": "351364d58b488f0b",
+        "name": "",
+        "label": "Tần số cài đặt",
+        "tooltip": "",
+        "group": "96d3e444c4485cfc",
+        "order": 4,
+        "width": 7,
+        "height": 1,
+        "wrap": false,
+        "passthru": true,
+        "topic": "topic",
+        "topicType": "msg",
+        "format": "{{value}}",
+        "min": 0,
+        "max": "20",
+        "step": 1,
+        "className": "",
+        "x": 760,
+        "y": 780,
+        "wires": [
+            [
+                "4f528f04f6bd867a"
+            ]
+        ]
+    },
+    {
+        "id": "b07c81dd1f134fb7",
+        "type": "ui_dropdown",
+        "z": "5c9497a8022e826d",
+        "g": "351364d58b488f0b",
+        "name": "",
+        "label": "Chiều quay",
+        "tooltip": "",
+        "place": "Select option",
+        "group": "96d3e444c4485cfc",
+        "order": 3,
+        "width": 7,
+        "height": 1,
+        "passthru": true,
+        "multiple": false,
+        "options": [
+            {
+                "label": "Ngược chiều",
+                "value": "Ngược chiều",
+                "type": "str"
+            },
+            {
+                "label": "Cùng chiều",
+                "value": "Cùng chiều",
+                "type": "str"
+            }
+        ],
+        "payload": "",
+        "topic": "topic",
+        "topicType": "msg",
+        "className": "",
+        "x": 750,
+        "y": 720,
+        "wires": [
+            [
+                "2cf8fb06fd3bfbf9"
+            ]
+        ]
+    },
+    {
+        "id": "99011c18f97aa86c",
+        "type": "ui_dropdown",
+        "z": "5c9497a8022e826d",
+        "g": "351364d58b488f0b",
+        "name": "",
+        "label": "Trạng thái hoạt động",
+        "tooltip": "",
+        "place": "Select option",
+        "group": "96d3e444c4485cfc",
+        "order": 2,
+        "width": 7,
+        "height": 1,
+        "passthru": true,
+        "multiple": false,
+        "options": [
+            {
+                "label": "Mở",
+                "value": "Đang mở",
+                "type": "str"
+            },
+            {
+                "label": "Tắt",
+                "value": "Đang tắt",
+                "type": "str"
+            }
+        ],
+        "payload": "",
+        "topic": "topic",
+        "topicType": "msg",
+        "className": "",
+        "x": 780,
+        "y": 660,
+        "wires": [
+            [
+                "bd96647c9cc4f88c"
+            ]
+        ]
+    },
+    {
+        "id": "bd96647c9cc4f88c",
+        "type": "function",
+        "z": "5c9497a8022e826d",
+        "g": "351364d58b488f0b",
+        "name": "Cài đặt trạng thái khung giờ 2",
+        "func": "global.set(\"trangThai2\", msg.payload) || \"Đang tắt\";\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1050,
+        "y": 660,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "2cf8fb06fd3bfbf9",
+        "type": "function",
+        "z": "5c9497a8022e826d",
+        "g": "351364d58b488f0b",
+        "name": "Cài đặt chiều quay khung giờ 2",
+        "func": "global.set(\"chieuQuay2\", msg.payload) || \"Cùng chiều\";\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1050,
+        "y": 720,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "85c67f2fc785433c",
+        "type": "function",
+        "z": "5c9497a8022e826d",
+        "g": "351364d58b488f0b",
+        "name": "Cho phép điều chỉnh 4",
+        "func": "if (msg.payload == false) {\n    global.set(\"enableKg2\", true) || true;\n}\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "// Code added here will be run once\n// whenever the node is started.\nglobal.set(\"enableKg2\", true) || true;",
+        "finalize": "",
+        "libs": [],
+        "x": 420,
+        "y": 720,
+        "wires": [
+            [
+                "01da6c21abea8abe"
+            ]
+        ]
+    },
+    {
+        "id": "01da6c21abea8abe",
+        "type": "link out",
+        "z": "5c9497a8022e826d",
+        "g": "351364d58b488f0b",
+        "name": "2",
+        "mode": "link",
+        "links": [
+            "66c0aea70a8079bc",
+            "b342e3e3c7f79535"
+        ],
+        "x": 585,
+        "y": 720,
+        "wires": []
+    },
+    {
+        "id": "4f528f04f6bd867a",
+        "type": "function",
+        "z": "5c9497a8022e826d",
+        "g": "351364d58b488f0b",
+        "name": "Cài đặt tần số khung giờ 2",
+        "func": "global.set(\"tanSo2\", msg.payload) || 0;\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1040,
+        "y": 780,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "48c4dc066dfc58f1",
+        "type": "inject",
+        "z": "5c9497a8022e826d",
+        "g": "0bbdc3255d4c893e",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": true,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "false",
+        "payloadType": "bool",
+        "x": 130,
+        "y": 920,
+        "wires": [
+            [
+                "b3bba8d9322cb139"
+            ]
+        ]
+    },
+    {
+        "id": "b3bba8d9322cb139",
+        "type": "ui_switch",
+        "z": "5c9497a8022e826d",
+        "g": "0bbdc3255d4c893e",
+        "name": "",
+        "label": "Cho phép hoạt động",
+        "tooltip": "",
+        "group": "fee9280c7fb8fad4",
+        "order": 1,
+        "width": 7,
+        "height": 1,
+        "passthru": true,
+        "decouple": "false",
+        "topic": "topic",
+        "topicType": "msg",
+        "style": "",
+        "onvalue": "true",
+        "onvalueType": "bool",
+        "onicon": "",
+        "oncolor": "",
+        "offvalue": "false",
+        "offvalueType": "bool",
+        "officon": "",
+        "offcolor": "",
+        "animate": false,
+        "className": "",
+        "x": 320,
+        "y": 920,
+        "wires": [
+            [
+                "417adabdd1010e10",
+                "4a81c7c34aee2e81"
+            ]
+        ]
+    },
+    {
+        "id": "417adabdd1010e10",
+        "type": "change",
+        "z": "5c9497a8022e826d",
+        "g": "0bbdc3255d4c893e",
+        "name": "",
+        "rules": [
+            {
+                "t": "set",
+                "p": "enabled",
+                "pt": "msg",
+                "to": "payload",
+                "tot": "msg"
+            },
+            {
+                "t": "set",
+                "p": "disableDevice",
+                "pt": "msg",
+                "to": "0",
+                "tot": "num"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 540,
+        "y": 920,
+        "wires": [
+            [
+                "eeeca80a65c59ac0",
+                "ece6e0c17eaec11d",
+                "877174f09f19a9b4",
+                "178b8990c2f47944"
+            ]
+        ]
+    },
+    {
+        "id": "eeeca80a65c59ac0",
+        "type": "ui_time_scheduler",
+        "z": "5c9497a8022e826d",
+        "g": "0bbdc3255d4c893e",
+        "group": "fee9280c7fb8fad4",
+        "name": "",
+        "startDay": 0,
+        "refresh": 60,
+        "devices": [
+            "Khung thời gian"
+        ],
+        "singleOff": true,
+        "onlySendChange": true,
+        "customPayload": false,
+        "eventMode": false,
+        "eventOptions": [],
+        "sendTopic": false,
+        "lat": "",
+        "lon": "",
+        "customContextStore": "",
+        "outputs": 2,
+        "order": 5,
+        "width": 7,
+        "height": 1,
+        "x": 750,
+        "y": 900,
+        "wires": [
+            [],
+            [
+                "9a58bda66730ab4e"
+            ]
+        ]
+    },
+    {
+        "id": "e3311847859422c7",
+        "type": "link out",
+        "z": "5c9497a8022e826d",
+        "g": "0bbdc3255d4c893e",
+        "name": "2",
+        "mode": "link",
+        "links": [
+            "66c0aea70a8079bc",
+            "b342e3e3c7f79535"
+        ],
+        "x": 1205,
+        "y": 900,
+        "wires": []
+    },
+    {
+        "id": "9a58bda66730ab4e",
+        "type": "function",
+        "z": "5c9497a8022e826d",
+        "g": "0bbdc3255d4c893e",
+        "name": "Đến thời thời gian cài đặt 3",
+        "func": "var data = msg.payload;\n\nif (data == true) {\n    data = false;\n}\nelse {\n    data = true;\n}\n\nglobal.set(\"enableKg3\", data) || true;\n\nmsg.payload = data;\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "// Code added here will be run once\n// whenever the node is started.\nglobal.set(\"enableKg3\", true) || true;\nglobal.set(\"trangThai3\", \"Đang tắt\") || \"Đang tắt\";\nglobal.set(\"chieuQuay3\", \"Cùng chiều\") || \"Cùng chiều\";\nglobal.set(\"tanSo3\", 0) || 0;",
+        "finalize": "",
+        "libs": [],
+        "x": 1020,
+        "y": 900,
+        "wires": [
+            [
+                "e3311847859422c7"
+            ]
+        ]
+    },
+    {
+        "id": "178b8990c2f47944",
+        "type": "ui_numeric",
+        "z": "5c9497a8022e826d",
+        "g": "0bbdc3255d4c893e",
+        "name": "",
+        "label": "Tần số cài đặt",
+        "tooltip": "",
+        "group": "fee9280c7fb8fad4",
+        "order": 4,
+        "width": 7,
+        "height": 1,
+        "wrap": false,
+        "passthru": true,
+        "topic": "topic",
+        "topicType": "msg",
+        "format": "{{value}}",
+        "min": 0,
+        "max": "20",
+        "step": 1,
+        "className": "",
+        "x": 760,
+        "y": 1080,
+        "wires": [
+            [
+                "c79a524544c5aee6"
+            ]
+        ]
+    },
+    {
+        "id": "877174f09f19a9b4",
+        "type": "ui_dropdown",
+        "z": "5c9497a8022e826d",
+        "g": "0bbdc3255d4c893e",
+        "name": "",
+        "label": "Chiều quay",
+        "tooltip": "",
+        "place": "Select option",
+        "group": "fee9280c7fb8fad4",
+        "order": 3,
+        "width": 7,
+        "height": 1,
+        "passthru": true,
+        "multiple": false,
+        "options": [
+            {
+                "label": "Ngược chiều",
+                "value": "Ngược chiều",
+                "type": "str"
+            },
+            {
+                "label": "Cùng chiều",
+                "value": "Cùng chiều",
+                "type": "str"
+            }
+        ],
+        "payload": "",
+        "topic": "topic",
+        "topicType": "msg",
+        "className": "",
+        "x": 750,
+        "y": 1020,
+        "wires": [
+            [
+                "9a1a8ca50678baf4"
+            ]
+        ]
+    },
+    {
+        "id": "ece6e0c17eaec11d",
+        "type": "ui_dropdown",
+        "z": "5c9497a8022e826d",
+        "g": "0bbdc3255d4c893e",
+        "name": "",
+        "label": "Trạng thái hoạt động",
+        "tooltip": "",
+        "place": "Select option",
+        "group": "fee9280c7fb8fad4",
+        "order": 2,
+        "width": 7,
+        "height": 1,
+        "passthru": true,
+        "multiple": false,
+        "options": [
+            {
+                "label": "Mở",
+                "value": "Đang mở",
+                "type": "str"
+            },
+            {
+                "label": "Tắt",
+                "value": "Đang tắt",
+                "type": "str"
+            }
+        ],
+        "payload": "",
+        "topic": "topic",
+        "topicType": "msg",
+        "className": "",
+        "x": 780,
+        "y": 960,
+        "wires": [
+            [
+                "97045b7b85bd5ed6"
+            ]
+        ]
+    },
+    {
+        "id": "97045b7b85bd5ed6",
+        "type": "function",
+        "z": "5c9497a8022e826d",
+        "g": "0bbdc3255d4c893e",
+        "name": "Cài đặt trạng thái khung giờ 3",
+        "func": "global.set(\"trangThai3\", msg.payload) || \"Đang tắt\";\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1040,
+        "y": 960,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "9a1a8ca50678baf4",
+        "type": "function",
+        "z": "5c9497a8022e826d",
+        "g": "0bbdc3255d4c893e",
+        "name": "Cài đặt chiều quay khung giờ 3",
+        "func": "global.set(\"chieuQuay3\", msg.payload) || \"Cùng chiều\";\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1040,
+        "y": 1020,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "4a81c7c34aee2e81",
+        "type": "function",
+        "z": "5c9497a8022e826d",
+        "g": "0bbdc3255d4c893e",
+        "name": "Cho phép điều chỉnh 5",
+        "func": "if (msg.payload == false) {\n    global.set(\"enableKg3\", true) || true;\n}\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "// Code added here will be run once\n// whenever the node is started.\nglobal.set(\"enableKg3\", true) || true;",
+        "finalize": "",
+        "libs": [],
+        "x": 420,
+        "y": 1020,
+        "wires": [
+            [
+                "2d5debe2c26b218d"
+            ]
+        ]
+    },
+    {
+        "id": "2d5debe2c26b218d",
+        "type": "link out",
+        "z": "5c9497a8022e826d",
+        "g": "0bbdc3255d4c893e",
+        "name": "2",
+        "mode": "link",
+        "links": [
+            "66c0aea70a8079bc",
+            "b342e3e3c7f79535"
+        ],
+        "x": 585,
+        "y": 1020,
+        "wires": []
+    },
+    {
+        "id": "c79a524544c5aee6",
+        "type": "function",
+        "z": "5c9497a8022e826d",
+        "g": "0bbdc3255d4c893e",
+        "name": "Cài đặt tần số khung giờ 3",
+        "func": "global.set(\"tanSo3\", msg.payload) || 0;\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 1030,
+        "y": 1080,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "1fd1e069a4928b18",
+        "type": "comment",
+        "z": "5c9497a8022e826d",
+        "g": "84fe9588e3ff1d42",
+        "name": "Thời gian",
+        "info": "",
+        "x": 600,
+        "y": 60,
+        "wires": []
+    },
+    {
+        "id": "740b8ee6a03aebf2",
+        "type": "comment",
+        "z": "5c9497a8022e826d",
+        "g": "19461add7179f419",
+        "name": "Điều chỉnh khung giờ 1",
+        "info": "",
+        "x": 160,
+        "y": 480,
+        "wires": []
+    },
+    {
+        "id": "fe12a6e2fc121802",
+        "type": "comment",
+        "z": "5c9497a8022e826d",
+        "g": "351364d58b488f0b",
+        "name": "Điều chỉnh khung giờ 2",
+        "info": "",
+        "x": 160,
+        "y": 780,
+        "wires": []
+    },
+    {
+        "id": "b1ff5e50cd392511",
+        "type": "comment",
+        "z": "5c9497a8022e826d",
+        "g": "0bbdc3255d4c893e",
+        "name": "Điều chỉnh khung giờ 3",
+        "info": "",
+        "x": 160,
+        "y": 1080,
+        "wires": []
+    }
+]
